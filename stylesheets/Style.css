@@ -1,0 +1,112 @@
+/* @import 'http://fonts.googleapis.com/css?family=oswald:400,700';
+@import 'http://fonts.googleapis.com/css?family=Montserrat:400,700'; */
+
+body {
+    background-image: url("../images/Building3SS.jpg");
+    margin:0px;
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+   
+}
+header {
+  
+    color: black;
+    padding: 8px 10px 6px 80px;
+    height: 60px;
+}
+header h1 {
+    display: inline;
+    font-family:200px;
+    font-size: 30px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+    padding-top: 14px;
+    padding-left: 100px;
+}
+ ul {
+    display: inline;
+    padding-left: 10px;
+    padding-top: 10px;
+    float:left;
+
+}
+ ul li {
+    display: inline-block;
+    list-style-type:none;
+    color:white;
+    margin-left: 12px;
+}
+nav ul li a {
+    color:black;
+    text-decoration: none;
+}
+#nav {
+    font-family: 'Montserrat',sans-serif;
+}
+
+
+.homeblack:hover {
+background-color: blue;
+}
+
+.us {
+    z-index: 100;
+
+}
+.us2 {
+    background-image: url("../images/bottleShip.jpg");
+    position: fixed;
+    height: 150%;
+    width:100%;
+    z-index: -1;
+
+}
+
+.lan {
+    color:white;
+    font-style:italic;
+    padding-top: 350px;
+    padding-left: 600px;
+    padding-right: 400px;
+  }
+
+.lan2 {
+    text-align: center;
+    padding-top: 275px;
+}
+.lan3 {
+    color:rgb(0, 38, 255);
+    padding-left: 200px;
+    padding-top: 250px;
+}
+.lan4 {
+    text-decoration: underline;
+}
+section {
+    border:black 2px solid;
+    margin-right: 150px;
+    margin-left: 650px;
+    
+}
+.lan5 {
+    padding-left:20px; 
+}
+.para {
+    padding-left:20px; 
+}
+.para1 {
+    padding-left:20px; 
+    border: rgb(0, 38, 255) 1px solid;
+    margin-right: 8px;
+    margin-left:8px;
+}
+.para2 {
+    padding-left:20px; 
+    border: rgb(0, 38, 255) 1px solid;
+    margin-right: 8px;
+    margin-left:8px;
+    min-height: 200px;
+   
+}
