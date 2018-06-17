@@ -3,13 +3,11 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-   
+    height: 1000px;
 } 
 
-/*.homeblack:hover {
-    color: white;
-    text-decoration: underline;
-}*/
+
+
 
 #contact-header-section {
 
@@ -17,7 +15,16 @@
     background-repeat: no-repeat;   
     background-attachment: fixed;
     background-position: center;
+    height: 500px;
     
+    
+}
+ .fstyle {
+    font-style: italic;
+    
+}
+.fweight{
+    font-weight: 400;
 }
 
 .white-text {
@@ -26,6 +33,7 @@
 
 .lan4 {
     text-decoration: underline;
+    font-weight: 400;
 }
 form {
     border:white 1px solid;
@@ -36,19 +44,23 @@ form {
 
 .sub heading {
     font-size: 15px; 
+    
 }
 
 .heading-padd {
-    padding-top: 70px;
-    padding-bottom: 40px
+    padding-top: 80px;
+    padding-bottom: 200px
 }
 
 .margin-top-7x {
-    margin-top: 70px;
+    margin-top: 100px;
 }
 
 .margin-bottom-3x {
-    margin-bottom: 30px
+    margin-bottom: 30px;
+    border-radius: 10px;
+    
+
 }
 
 .shadow-box {
